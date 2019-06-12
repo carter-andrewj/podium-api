@@ -1,6 +1,6 @@
 {
-  "name": "@carter_andrewj/podix",
-  "version": "2.6.24",
+  "name": "@carter_andrewj/podium-api",
+  "version": "0.0.1",
   "description": "API library between the Podium social network and Radix DLT.",
   "main": "lib/podium.js",
   "scripts": {
@@ -15,16 +15,9 @@
   "license": "ISC",
   "dependencies": {
     "@babel/polyfill": "^7.4.4",
-    "aws-sdk": "^2.473.0",
-    "busboy-body-parser": "^0.3.2",
-    "connect-loki": "^1.1.0",
     "form-data": "^2.3.3",
     "immutable": "^4.0.0-rc.12",
-    "keypair": "^1.0.1",
-    "lokijs": "^1.5.6",
-    "node-fetch": "^2.6.0",
-    "radixdlt": "^1.0.7-alpha",
-    "uuid": "^3.3.2"
+    "radixdlt": "^1.0.7-alpha"
   },
   "devDependencies": {
     "@babel/cli": "^7.4.4",
