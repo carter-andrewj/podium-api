@@ -6,7 +6,7 @@ import FormData from 'form-data';
 import { radixUniverse, RadixUniverse, RadixLogger,
 		 RadixAccount, RadixUtil, RadixKeyPair,
 		 RadixSimpleIdentity, RadixIdentityManager,
-		 RadixKeyStore, RadixTransactionBuilder } from 'radixdlt';
+		 RadixKeyStore, RadixTransactionBuilder } from 'radixdlt-reactnative';
 
 import { PodiumError } from './podiumError';
 import { PodiumPaths } from './podiumPaths';

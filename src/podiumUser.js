@@ -1,6 +1,6 @@
 import { Map, OrderedSet, List, fromJS } from 'immutable';
 
-import { RadixSimpleIdentity, RadixKeyStore, RadixLogger } from 'radixdlt';
+import { RadixSimpleIdentity, RadixKeyStore, RadixLogger } from 'radixdlt-reactnative';
 
 import { PodiumRecord } from './podiumRecord';
 import { PodiumError } from './podiumError';

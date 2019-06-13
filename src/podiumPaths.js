@@ -1,4 +1,4 @@
-import { RadixAccount } from 'radixdlt';
+import { RadixAccount } from 'radixdlt-reactnative';
 
 import { getAccount } from './utils';
 

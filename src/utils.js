@@ -1,6 +1,6 @@
 import { fromJS } from 'immutable';
 
-import { RadixUtil, RadixAccount, RadixKeyPair } from 'radixdlt';
+import { RadixUtil, RadixAccount, RadixKeyPair } from 'radixdlt-reactnative';
 
 
 
